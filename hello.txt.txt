@@ -1,2 +1,10 @@
 hello world
+git init  -> initialize the folder for all comands of git
+git status ->give the track of all untracked files
 git add . ->selects all the files in folder for uploading
+git commit -m"any message" ->ready for upload in git
+git remote add origin https://github.com/sumitbeniwal111/somecode.git
+git push -u origin main
+
+*.html ->ignore all the html files(html files will not be tracked by git)
+git clone url ->to copy the all files of someone from github
